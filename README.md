@@ -1,7 +1,7 @@
 # airplane-landing-gear-mechanism
 
 Kineamtics and Dynamics of Machinery
- three bar linkage. 
+three bar linkage. 
 
 Added First Position equation derivations , along with free body diagram. 
 
