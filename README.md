@@ -12,4 +12,4 @@ Soon to come :
   * matlab code/simulation. 
   
   * rederive equations if simulation show signs of inaccuracy.
-  * description of project
+  * project description/problem.
