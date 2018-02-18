@@ -19,6 +19,7 @@
 clf % clears plot
 clc % clears the command window 
 clear all % clears the variables
+
 %% Main program
 p1 = [6 0]; %point 1 
 p2 = [-0.946699141100893 -4.247086478782448]; %point 2.
@@ -56,7 +57,6 @@ theta_2 = pi; %value of the angle theta 2 at initial position
 theta_2fin = 45 * (pi/180); %value of the angle theta 2 final at the landing position calculated 
 theta_1fin = 0; % value of angle theta that relates Ground 1 and 2 at final position
 
- 
 
 theta_3val = []; %empty matrix that stores the calculated value of theta 3 as it goes through the loop.
 theta_4val = [] ; %empty matrix that stores the calculated value of theta 3 as it goes through the loop.
@@ -195,8 +195,6 @@ for i =1: length(theta_2val) % the for loop plots the values of the theta 2 and 
    
    M(i) = getframe; % get frame 
        
- 
-    
 end 
 hold off; 
 
