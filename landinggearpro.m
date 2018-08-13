@@ -1,4 +1,3 @@
-
 %Landing gear Ground points
 %This program calculates the ground points for a simulation of an airplane
 %landing gear and the angle between the links. It then uses the values
