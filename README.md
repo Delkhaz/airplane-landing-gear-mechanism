@@ -21,7 +21,7 @@ Soon to come :
 # Kinematic Diagrams
   * Kinematic Diagrams are utilized to analyze the types and number of links plus joints in the mechanism. The links are label l_1  to L_N, where N represent the total number of links in a mechanism. The joints are labeled in alphabetical letters starting at A. The ground joints are represented as Oj, where j represents the total number of grounded joints. Figure below depicts the Kinematic diagram of the landing gear. 
   
- ![alt text](https://raw.githubusercontent.com/delkhaz/airplane-landing-gear-mechanism/Kinematic diagram of a Landing Gear.png)
+ ![alt text](https://raw.githubusercontent.com/delkhaz/airplane-landing-gear-mechanism/Kinematic-diagram-of-a-Landing-Gear.png)
   
   
 
