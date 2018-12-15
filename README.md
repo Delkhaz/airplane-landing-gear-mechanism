@@ -24,5 +24,5 @@ four bar linkage.
   
   
 # Contributors
-Delkhaz
-Mubarek
+* Delkhaz
+* Mubarek
